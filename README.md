@@ -6,9 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2500&pause=1000&color=B8B8B8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences.;Crafting+Clean+Interfaces.;Always+Learning.;Design.+Code.+Creativity." />
 
-<br>
 
-<img src="https://komarev.com/ghpvc/?username=hrid07&style=for-the-badge&color=black&label=PROFILE+VIEWS"/>
 
 </div>
 
