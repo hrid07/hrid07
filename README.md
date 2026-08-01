@@ -1,40 +1,317 @@
-[![MasterHead](https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e6769663f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c324d344d324d774d44526c4c54457a4e7a41744e4463314e6930344f4755314c5451774e7a466b5a5463354e7a41344f4677765a47646b63546869636930774f574e6a4e32466b4e6931684d4449784c54513359545574596a426c4d4330354d5464694d544a694d475933595463755a326c6d496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e7471524d74452d6232516949326e6e65664e7853444d4a765a43635971466d71326363675f58667a716238)
-<h1 align="center">Hi 👋, I'm Hrid Raian Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" img align="right" alt="Coding" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrid07&label=Profile%20views&color=0e75b6&style=flat" alt="hrid07" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrid07" alt="hrid07" /></a> </p>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=42&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=HRID+RAIAN+KHAN" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
+### Frontend Developer • Computer Science Student
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hrid-raian-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrid-raian-khan" height="30" width="40" /></a>
-<a href="https://fb.com/hridraian.khan.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridraian.khan.07" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2500&pause=1000&color=B8B8B8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences.;Crafting+Clean+Interfaces.;Always+Learning.;Design.+Code.+Creativity." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hrid07&style=for-the-badge&color=black&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# About
+
+I'm **Hrid Raian Khan**, a **Computer Science & Engineering student** with a passion for creating modern, responsive, and visually polished web experiences.
+
+I believe great interfaces aren't just beautiful—they're intuitive, fast, and thoughtfully engineered.
+
+My current focus is mastering frontend development while continuously improving my problem-solving skills and software engineering practices.
+
+<br>
+
+> **"Good design disappears. Great engineering feels effortless."**
+
+---
+
+# Current Focus
+
+```text
+▸ Building Modern Frontend Applications
+
+▸ Writing Cleaner JavaScript
+
+▸ Learning React Ecosystem
+
+▸ UI / UX Engineering
+
+▸ Responsive Web Design
+
+▸ Performance Optimization
+```
+
+---
+
+# Philosophy
+
+```text
+Design first.
+
+Performance always.
+
+Code with intention.
+
+Keep learning.
+
+Never stop improving.
+```
+
+---
+
+<div align="center">
+
+## Building interfaces where creativity meets engineering.
+
+</div>
+
+# Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,cs,js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrid07&show_icons=true&locale=en&layout=compact" alt="hrid07" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrid07&show_icons=true&locale=en" alt="hrid07" /></p>
+### Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrid07&" alt="hrid07" /></p>
-## Hi there 👋
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-<!--
-**hrid07/hrid07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools & Workflow
 
-Here are some ideas to get you started:
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,vercel" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+A modern portfolio focused on performance, responsive layouts, smooth interactions and clean UI.
+
+**Highlights**
+
+- Responsive Design
+- Smooth Animations
+- Modern UI
+- Performance Optimized
+
+<br>
+
+**🔗 Live Demo**
+
+https://hrid07.github.io/Portfolio-Website/
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="140" align="center">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎵 Musicore
+
+A premium musical instrument e-commerce frontend inspired by modern online stores.
+
+Built with a strong focus on aesthetics, responsiveness and user experience.
+
+**Highlights**
+
+- Premium UI
+- Responsive Layout
+- Shopping Experience
+- Interactive Components
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="140">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# What I Enjoy Building
+
+```text
+Responsive Websites
+
+Interactive Interfaces
+
+Modern Landing Pages
+
+Portfolio Websites
+
+Frontend Experiences
+
+Clean UI Components
+
+Creative Web Designs
+```
+
+---
+
+# Development Mindset
+
+```javascript
+const developer = {
+    name: "Hrid Raian Khan",
+
+    role: "Frontend Developer",
+
+    education: "Computer Science Student",
+
+    currentlyLearning: [
+        "Advanced JavaScript",
+        "React",
+        "Modern UI Engineering"
+    ],
+
+    philosophy: [
+        "Design with purpose",
+        "Write clean code",
+        "Keep improving"
+    ]
+}
+```
+
+---
+
+<div align="center">
+
+### Turning ideas into elegant digital experiences.
+
+</div>
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hrid07&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=hrid07&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrid07&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# Current Journey
+
+```text
+2024 ───────────────► Present
+
+Computer Science Student
+
+██████████░░░░░░░░░░░░░░░░░  Frontend Development
+
+███████░░░░░░░░░░░░░░░░░░░░  JavaScript
+
+█████░░░░░░░░░░░░░░░░░░░░░░  React
+
+████████░░░░░░░░░░░░░░░░░░░  UI / UX
+
+█████████░░░░░░░░░░░░░░░░░░  Problem Solving
+```
+
+---
+
+# Beyond Code
+
+<div align="center">
+
+| 🎸 Guitar | ☕ Coffee | 📸 Photography |
+|:---------:|:---------:|:--------------:|
+| ⚽ Football | 🧩 Problem Solver | 🎯 Perfectionist |
+
+</div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/hrid07">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/hrid-raian-khan-81b828310/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:raiankhanhrid07@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://hrid07.github.io/Portfolio-Website/">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="42"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Building.
+## Learning.
+## Improving.
+
+### One commit at a time.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,12&section=footer"/>
+
+</div>
+
+
